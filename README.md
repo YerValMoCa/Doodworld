@@ -25,6 +25,8 @@ Si desea contribuir a este proyecto, por favor siga estas pautas:
 3. Realice sus cambios y asegurese de incluir pruebas para ellos.
 4. Realice un pull rewuest de su rama a la rama principal el repositorio.
 
+Todas las contribuciones seran revisadas y, si son aceptadas, seran integradas al codigo principal.
+
 ## Instalacion
 
 Para instalar y utilizar Doodworld, siga estos pasos:
@@ -46,13 +48,19 @@ git clone https://github.com/YerValMoCa/Doodworld.git
  ## Creador
  
  Nombre: Yerry Valentin Morales Carranza
+ 
  Alias: Yerval Moca
+ 
  Pais: Costa Rica
+ 
  Web: https://github.com/YerValMoCa/
  
  Nombre: ChatGPT
+ 
  Alias: Assistant
+ 
  Pais: Universal
+ 
  Web: https://chat.openai.com/
  
  ## Licencia
