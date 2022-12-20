@@ -28,7 +28,7 @@ Si desea contribuir a este proyecto, por favor siga estas pautas:
 
 Para instalar y utilizar Doodworld, siga estos pasos:
 
-1. asegurese de tener Visual Studio Code instalado en su computadora.
+1. asegurese de tener Visual Studio Code y Git instalado en su computadora.
 2. Clone este repositorio a su computadora con el siguiente comando:
 
 git clone https://github.com/YerValMoCa/Doodworld.git
@@ -44,7 +44,7 @@ git clone https://github.com/YerValMoCa/Doodworld.git
  
  ## Licencia
  
- Este proyecto esta disponible bajo licencia MIT. Para obtener mas informacion, conuslte archivo https://github.com/YerValMoCa/Doodworld/blob/main/LICENSE adjunto.
+ Este proyecto esta disponible bajo licencia Creative Commons Zero v1.0 Universal. Para obtener mas informacion, conuslte archivo https://github.com/YerValMoCa/Doodworld/blob/main/LICENSE adjunto.
  
  
  
