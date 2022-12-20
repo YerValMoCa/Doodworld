@@ -9,6 +9,7 @@ Doodworld sera un proyecto semidescentralizado ni centralizado ni descentraliza,
 - [Uso](#uso)
 - [Contribucion](#contribucion)
 - [Instalacion](#instalacion)
+- [Creador](#creador)
 - [Licencia](#licencia)
 
 ## Uso
@@ -41,6 +42,18 @@ git clone https://github.com/YerValMoCa/Doodworld.git
  5. Inice el servidor de desarrollo con el siguiente comando:
  
  npm start
+ 
+ ## Creador
+ 
+ Nombre: Yerry Valentin Morales Carranza
+ Alias: Yerval Moca
+ Pais: Costa Rica
+ Web: https://github.com/YerValMoCa/
+ 
+ Nombre: ChatGPT
+ Alias: Assistant
+ Pais: Universal
+ Web: https://chat.openai.com/
  
  ## Licencia
  
