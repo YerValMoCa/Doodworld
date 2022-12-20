@@ -44,7 +44,7 @@ git clone https://github.com/YerValMoCa/Doodworld.git
  
  ## Licencia
  
- Este proyecto esta disponible bajo licencia MIT. Para obtener mas informacion, conuslte archivo LICENSE adjunto.
+ Este proyecto esta disponible bajo licencia MIT. Para obtener mas informacion, conuslte archivo https://github.com/YerValMoCa/Doodworld/blob/main/LICENSE adjunto.
  
  
  
