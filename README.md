@@ -29,21 +29,25 @@ Todas las contribuciones seran revisadas y, si son aceptadas, seran integradas a
 
 ## Instalacion
 
-Para instalar y utilizar Doodworld, siga estos pasos:
+Para instalar y ejecutar Doodworld en tu entorno de desarrollo local, sigue estos pasos:
 
-1. asegurese de tener Visual Studio Code y Git instalado en su computadora.
-2. Clone este repositorio a su computadora con el siguiente comando:
+1. Clona este repositorio en tu equipo:
 
 git clone https://github.com/YerValMoCa/Doodworld.git
 
-3. Abra el proyecto en Visual Studio Code.
-4. Instale las dependencias necesarias con el siguiente comando:
+2. Accede al directorio del repositorio:
 
- npm install
- 
- 5. Inice el servidor de desarrollo con el siguiente comando:
- 
- npm start
+cd doodworld
+
+3. Instala las dependecias necesarias:
+
+npm install
+
+4. Ejecuta el servidor de desarrollo:
+
+npm run dev
+
+5. Abre tu avegador en la direccion "http://localhost:3000" para ver la plataforma en funcionamiento.
  
  ## Creador
  
